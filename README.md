@@ -2,21 +2,6 @@
 
 A machine learning project for predicting ICU patient mortality risk using clinical and laboratory data. The model achieves an ROC-AUC of 0.80 on the test set using a calibrated Logistic Regression approach with SMOTE for handling class imbalance.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Dataset](#dataset)
-- [Model Performance](#model-performance)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Methodology](#methodology)
-- [Key Findings](#key-findings)
-- [Requirements](#requirements)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🎯 Overview
 
 This project develops a predictive model to assess mortality risk for ICU patients using 48 clinical features including demographics, vital signs, comorbidities, and laboratory values. The model helps healthcare providers identify high-risk patients for early intervention.
