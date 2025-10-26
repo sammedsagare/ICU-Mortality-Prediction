@@ -13,4 +13,4 @@ venv/
 # macOS
 .DS_Store
 
-.pkl
+*.pkl
